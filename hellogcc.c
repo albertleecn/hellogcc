@@ -1,5 +1,6 @@
 /**
 * a simple c program
+* gcc
 **/
 #include <stdio.h>
 int main(){
